@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Basal_Dist</string>
+    <string name="main_title">Basal Distributor</string>
+    <string name="settings_title">Settings</string>
+    <string name="help_title">How to Use</string>
+    <string name="val_err">NO VALUE</string>
+    <string name="sum">Total Basal:</string>
+    <string name="maxed_out">Due to your hourly settings your distribution capped at:</string>
+    <string name="remainder_err">Due to your daily basal not being a multiple of 3 you may experience a remainder in your results</string>
+
+    <string name="help1">What Apps to Use</string>
+    <string name="help2">Where to Begin</string>
+    <string name="help3">What Data to Use</string>
+    <string name="help4">Where to Enter Data</string>
+    <string name="help5">Margin of Error</string>
+
+
+    <string name="helpImageDesc1">Download from Google Play store</string>
+    <string name="helpImageDesc2">IMPORTANT: Enter your personal settings by pressing the gear icon</string>
+    <string name="helpImageDesc3">How to enter the numbers will be described in the following image</string>
+    <string name="helpImageDesc4">Enter the values from the previous example from left to right in order</string>
+    <string name="helpImageDesc5">Unfortunately due to the need to round to the second decimal place sometimes the result will be up to .02 off</string>
+
+    <string name="left">&lt;</string>
+    <string name="right">&gt;</string>
+
+    <string name="needNumberError">Must be a number</string>
+</resources>
